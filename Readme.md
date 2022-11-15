@@ -1,4 +1,4 @@
-# Simple CRUD of a Blog with bearer of authorization in header and secure api with Role
+# Simple CRUD of a Blog with Bearer Authorization in header and secure api with Role
 
 ### CRUD of Post
 ![EXAMPLE](post.png)
